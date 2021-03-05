@@ -42,10 +42,11 @@ body {
 }
 #post {
     padding: 1em;
+    background: white;
 }
 #footer {
     background: #777;
     color: white;
     text-align: center;
-    padding: 1.5em;
+    padding: 1em;
 }
