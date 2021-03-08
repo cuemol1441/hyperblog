@@ -2,14 +2,7 @@ Esta es la historia de Freddy Vega
 
 Freddy Vega 32 años y nacio en Colombia 
 
-<<<<<<< HEAD
-Molina1441 es de Málaga y nacio en internet
+Molina1441 es una persona que contribuye a este proyecto de open source y nacio en internet
 
 Mañana nos enfocaremos en su vida laboral
-=======
-Mañana nos enfocaremos en su vida laboral
 
-En camara parece alto pero no es tan alto.
-
-Hoy es el CEO de Platzi.
->>>>>>> fbd40a536972cc26d0c501ad76cf2be6d75e6010
